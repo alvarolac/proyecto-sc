@@ -1,0 +1,5 @@
+Congreso: Congreso Internacional de Cómputo en Optimización y Software
+Año: 2017
+Link: http://campusv.uaem.mx/cicos/
+Ponencia: Reconocimiento de Voz usando Redes Neuronales Artificiales Backpropagation y Coeficientes LPC
+Link Ponencia: http://campusv.uaem.mx/cicos/cicos2008/imagenes/memorias/6tocicos2008/Articulos/Ponencia%207.pdf
